@@ -70,7 +70,7 @@ public class logueo extends javax.swing.JFrame {
 
         jLabel4.setText("jLabel4");
 
-        jLabel5.setText("jLabel5");
+        jLabel5.setText("aron");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
